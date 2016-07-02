@@ -1,6 +1,12 @@
 # React-Pack App
 
-My React Starter: Feel free to use to your liking.
+My React Starter.
+
+## Accomplished:
+
+* Integrate multiple tools together.
+* Developed a starter project from scratch.
+* Basic starter project for future projects.
 
 ## Setup
 ```
@@ -17,8 +23,6 @@ npm run compile
 npm start
 ```
 Open to `localhost:3002`
-
-
 
 ## Reference
 [Please Refer to this Tutorial](http://andrewhfarmer.com/build-your-own-starter/#0-intro)
