@@ -2,6 +2,14 @@
 
 My React Starter.
 
+## Tools used:
+* Babel
+* Express
+* Webpack
+* React
+* npm
+* Node.js
+
 ## Accomplished:
 
 * Integrate multiple tools together.
