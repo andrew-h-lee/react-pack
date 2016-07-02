@@ -2,8 +2,6 @@
 
 My React Starter: Feel free to use to your liking.
 
-
-
 ## Setup
 ```
 npm install
@@ -14,7 +12,11 @@ npm install
 npm run compile
 ```
 
-
+## Run Server
+```
+npm start
+```
+Open to `localhost:3002`
 
 
 
