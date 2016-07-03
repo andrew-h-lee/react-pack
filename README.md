@@ -1,6 +1,6 @@
 # React-Pack App
 
-My React Starter.
+A Basic React Starter.
 
 ## Tools used:
 * Babel
@@ -33,4 +33,4 @@ npm start
 Open to `localhost:3002`
 
 ## Reference
-[Please Refer to this Tutorial](http://andrewhfarmer.com/build-your-own-starter/#0-intro)
+[Build your Own Starter](http://andrewhfarmer.com/build-your-own-starter/#0-intro)
