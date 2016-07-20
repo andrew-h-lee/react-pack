@@ -16,6 +16,9 @@ A Basic React Starter.
 * Developed a starter project from scratch.
 * Basic starter project for future projects.
 
+## Modified:
+* Add StoryBook Files
+
 ## Setup
 ```
 npm install
